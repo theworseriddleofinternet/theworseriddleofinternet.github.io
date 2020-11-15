@@ -78,11 +78,9 @@ section {
 .secret{
     text-decoration: none;
         cursor:text ;
-    
+    color: turquoise;
 }
-.transp{
-    color: transparent;
-}
+
 .icon{
     float: middle;
     width: 4vw;
@@ -94,7 +92,7 @@ article {
     /*-webkit-flex: 3;
     -ms-flex: 3;
     flex: 3;*/
-    
+    color: turquoise;
     padding: 10px;
 }
 .button {
