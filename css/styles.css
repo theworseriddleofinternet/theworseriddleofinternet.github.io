@@ -78,7 +78,8 @@ section {
 .secret{
     text-decoration: none;
         cursor:text ;
-    color: turquoise;
+        
+    color: black;
 }
 
 .icon{
