@@ -80,6 +80,9 @@ section {
         cursor:text ;
     
 }
+.transp{
+    color: transparent;
+}
 .icon{
     float: middle;
     width: 4vw;
