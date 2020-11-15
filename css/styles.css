@@ -79,7 +79,7 @@ section {
     text-decoration: none;
         cursor:text ;
         
-    color: black;
+    color: rgb(0, 0, 0);;
 }
 
 .icon{
@@ -93,7 +93,8 @@ article {
     /*-webkit-flex: 3;
     -ms-flex: 3;
     flex: 3;*/
-    color: black;
+    
+    color: rgb(0, 0, 0);;
     padding: 10px;
 }
 .button {
